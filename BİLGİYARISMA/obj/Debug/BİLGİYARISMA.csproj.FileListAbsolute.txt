@@ -1,0 +1,10 @@
+C:\Users\utkua\Desktop\sharp\karar yapıları\BİLGİYARISMA\BİLGİYARISMA\bin\Debug\BİLGİYARISMA.exe.config
+C:\Users\utkua\Desktop\sharp\karar yapıları\BİLGİYARISMA\BİLGİYARISMA\bin\Debug\BİLGİYARISMA.exe
+C:\Users\utkua\Desktop\sharp\karar yapıları\BİLGİYARISMA\BİLGİYARISMA\bin\Debug\BİLGİYARISMA.pdb
+C:\Users\utkua\Desktop\sharp\karar yapıları\BİLGİYARISMA\BİLGİYARISMA\obj\Debug\BİLGİYARISMA.Form1.resources
+C:\Users\utkua\Desktop\sharp\karar yapıları\BİLGİYARISMA\BİLGİYARISMA\obj\Debug\BİLGİYARISMA.Properties.Resources.resources
+C:\Users\utkua\Desktop\sharp\karar yapıları\BİLGİYARISMA\BİLGİYARISMA\obj\Debug\BİLGİYARISMA.csproj.GenerateResource.cache
+C:\Users\utkua\Desktop\sharp\karar yapıları\BİLGİYARISMA\BİLGİYARISMA\obj\Debug\BİLGİYARISMA.csproj.CoreCompileInputs.cache
+C:\Users\utkua\Desktop\sharp\karar yapıları\BİLGİYARISMA\BİLGİYARISMA\obj\Debug\BİLGİYARISMA.exe
+C:\Users\utkua\Desktop\sharp\karar yapıları\BİLGİYARISMA\BİLGİYARISMA\obj\Debug\BİLGİYARISMA.pdb
+C:\Users\utkua\Desktop\sharp\karar yapıları\BİLGİYARISMA\BİLGİYARISMA\obj\Debug\BİLGİYARISMA.csprojAssemblyReference.cache
